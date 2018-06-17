@@ -7,9 +7,4 @@ return string.toLowerCase()
 }
 
 
-function logShout(string) {
-  console.log() string.andCallThrough
-}
-
-
 
